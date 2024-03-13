@@ -32,12 +32,6 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
-        <members>*</members>
-        <name></name>
-    <types>
-    </types>
-    <types>
-    </types>
     <types>
     </types>
     <version>59.0</version>
